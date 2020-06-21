@@ -1,0 +1,11 @@
+{
+  "name": "messenger",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/kifr/messenger.git"
+  },
+  "author": "kifr <27399981+kifr@users.noreply.github.com>",
+  "license": "MIT"
+}
